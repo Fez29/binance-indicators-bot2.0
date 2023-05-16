@@ -1,0 +1,12 @@
+2023-05-06 18:32:23,294 - ERROR - analyze_indicator_results Error: Python type list cannot be converted
+2023-05-06 18:32:23,294 - ERROR - Error: 'NoneType' object has no attribute 'items'
+2023-05-06 18:32:53,732 - ERROR - analyze_indicator_results Error: Python type list cannot be converted
+2023-05-06 18:32:53,732 - ERROR - Error: 'NoneType' object has no attribute 'items'
+2023-05-06 18:40:41,723 - ERROR - analyze_indicator_results Error: 1054 (42S22): Unknown column 'rsi_less_than_35' in 'where clause'
+2023-05-06 18:40:41,723 - ERROR - Error: 'NoneType' object has no attribute 'items'
+2023-05-06 18:40:49,424 - ERROR - analyze_indicator_results Error: 1054 (42S22): Unknown column 'rsi_less_than_35' in 'where clause'
+2023-05-06 18:40:49,425 - ERROR - Error: 'NoneType' object has no attribute 'items'
+2023-05-06 20:46:15,806 - ERROR - analyze_indicator_results Error: division by zero
+2023-05-06 20:46:15,806 - ERROR - Error: 'NoneType' object has no attribute 'items'
+2023-05-06 20:46:35,413 - ERROR - analyze_indicator_results Error: division by zero
+2023-05-06 20:46:35,413 - ERROR - Error: 'NoneType' object has no attribute 'items'

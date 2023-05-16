@@ -1,0 +1,10 @@
+python-binance
+pandas
+numpy
+pandas_ta
+ta
+requests
+pydantic
+sqlalchemy
+mysql-connector-python
+icecream
